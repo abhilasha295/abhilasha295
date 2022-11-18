@@ -1,4 +1,4 @@
-### Hi there <img src ="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width ="30 px"> I am Abhilasha Kumari.
+### Hi there <img src ="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width ="30px"> I am Abhilasha Kumari.
 
 <!--
 **abhilasha295/abhilasha295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
