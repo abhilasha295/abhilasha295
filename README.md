@@ -1,6 +1,6 @@
 ### Hi there <img src ="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width ="30px"> I am Abhilasha Kumari ! 
 
-<https://img.shields.io/badge/Key%20Skills-Exploratory%20Data%20Analysis-green>
+<img src ="https://img.shields.io/badge/Key%20Skills-Exploratory%20Data%20Analysis-green">
 <!--
 
 **abhilasha295/abhilasha295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
